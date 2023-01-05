@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <StartupObject>RENToday.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\zLibrary\BasicAware\.Core\libBAUtilCoreCS\libBAUtilCoreCS\libBAUtilCoreCS.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RENToday": {
+      "commandName": "Project",
+      "commandLineArgs": "/d=C:\\DATA\\CSharp\\Projects\\BasicAware\\.Core\\RENToday\\DATA\\*.txt /p=sa_*_ /s"
+    }
+  }
+}
